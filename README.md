@@ -6,7 +6,8 @@ Hello, this is a project that uses docker to provide a nodejs development enviro
 
 ## Requirement
 
-docker and docker-compose
+1.  docker and docker-compose
+2.  internet browser with vscode.dev support
 
 ## Configuration
 
@@ -29,14 +30,17 @@ docker and docker-compose
 
 ## Features
 
-- ZSH
-- OhMyZSH
-- Powerlevel10k
-- Syntax highlighting
-- Auto suggestions
-- Fonts MesloLGS
-- Docker image with NodeJS 18.12.0
-- Yarn
+_Read the official documentation for each feature to learn more._
+
+- [ZSH](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
+- [OhMyZSH](https://github.com/ohmyzsh/ohmyzsh)
+- [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
+- [Syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+- [Auto suggestions](https://github.com/zsh-users/zsh-autosuggestions)
+- Fonts [MesloLGS](https://github.com/romkatv/dotfiles-public/tree/master/.local/share/fonts/NerdFonts)
+- [Docker](https://www.docker.com/) image with [NodeJS 18.12.](https://nodejs.org/en/blog/release/v18.12.0)0
+- [Yarn](https://yarnpkg.com/)
+- [Git Emoji CLI](https://github.com/carloscuesta/gitmoji-cli)
 
 ## Others
 
