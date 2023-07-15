@@ -41,6 +41,7 @@ _Read the official documentation for each feature to learn more._
 - [Docker](https://www.docker.com/) image with [NodeJS 18.12.](https://nodejs.org/en/blog/release/v18.12.0)0
 - [Yarn](https://yarnpkg.com/)
 - [Git Emoji CLI](https://github.com/carloscuesta/gitmoji-cli)
+- [Code Server](https://github.com/coder/code-server)
 
 ## Others
 
