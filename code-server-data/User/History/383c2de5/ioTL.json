@@ -1,0 +1,5 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "editor.fontFamily": "'Men', 'Courier New', monospace"
+}

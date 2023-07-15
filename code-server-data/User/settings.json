@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "editor.fontFamily": "'MesloLGS NF', 'Courier New', monospace",
+    "workbench.iconTheme": "material-icon-theme",
+    "http.proxySupport": "off",
+    "remote.portsAttributes": {
+        
+        "443": {
+            "protocol": "https"
+        },
+        "8443": {
+            "protocol": "https"
+        }
+    },
+    "workbench.startupEditor": "none"
+}
